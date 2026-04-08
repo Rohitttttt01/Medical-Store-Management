@@ -84,5 +84,7 @@ Create stored procedures for billing
 Build a frontend (React / Power BI dashboard)
 Add reports & analytics
 
+Example: https://github.com/Rohitttttt01/Medical-Store-Management/blob/main/medstore_managment%20project.sql
+
 ⭐ Conclusion
 This project provides a complete hands-on implementation of a real-world database system and is ideal for learning SQL concepts and database design
